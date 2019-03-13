@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/factoryProject/factoryProject.iml" filepath="$PROJECT_DIR$/factoryProject/factoryProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototypepattern/prototypepattern.iml" filepath="$PROJECT_DIR$/prototypepattern/prototypepattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletonpattern/singletonpattern.iml" filepath="$PROJECT_DIR$/singletonpattern/singletonpattern.iml" />
     </modules>
   </component>
 </project>
